@@ -1,5 +1,6 @@
 import CardList from "./components/CardList.jsx";
 import { people } from "./data/people.js";
+
 function App() {
   return (
     <main className="max-w-5xl mx-auto p-6">
