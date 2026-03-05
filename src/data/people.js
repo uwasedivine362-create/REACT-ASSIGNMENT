@@ -35,9 +35,9 @@ export const people = [
   },
   {
     id: 5,
-    name: "bashabe",
-    role: "influencer",
-    department: "vloger",
+    name: "yvette",
+    role: "facilitetar",
+    department: "IT",
     image: bashabeImg,
   },
 ];
