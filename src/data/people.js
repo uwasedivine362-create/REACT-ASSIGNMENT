@@ -28,9 +28,9 @@ export const people = [
   },
   {
     id: 4,
-    name: "dotho",
-    role: "HR Specialist",
-    department: "Human Resources",
+    name: "dorine",
+    role: "nurse",
+    department: "dentist",
     image: softImg,
   },
   {
