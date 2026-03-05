@@ -14,9 +14,9 @@ export const people = [
   },
   {
     id: 2,
-    name: "",
-    role: "Accountant",
-    department: "Finance",
+    name: "fifi",
+    role: "software ",
+    department: "developer",
     image: compImg,
   },
   {
