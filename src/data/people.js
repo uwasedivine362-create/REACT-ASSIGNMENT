@@ -7,14 +7,14 @@ import bashabeImg from "../assets/bashabe.jpg";
 export const people = [
   {
     id: 1,
-    name: "dita",
-    role: "Software Engineer",
-    department: "Engineering",
+    name: "cadette",
+    role: "student",
+    department: "business",
     image: itImg,
   },
   {
     id: 2,
-    name: "dasha",
+    name: "",
     role: "Accountant",
     department: "Finance",
     image: compImg,
