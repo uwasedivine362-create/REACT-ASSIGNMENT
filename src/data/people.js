@@ -21,8 +21,8 @@ export const people = [
   },
   {
     id: 3,
-    name: "diva",
-    role: "UI Designer",
+    name: "divine",
+    role: "fashionist",
     department: "Design",
     image: dressImg,
   },
